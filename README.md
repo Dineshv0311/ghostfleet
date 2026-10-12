@@ -1,4 +1,4 @@
-# GHOSTFLEET 🛸⚡
+# GHOSTFLEET 🛸
 
 > **"Machines that work. Contracts that settle. Trust that can be verified."**
 
